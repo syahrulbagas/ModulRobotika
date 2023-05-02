@@ -1,3 +1,6 @@
+//Mengukur Suhu, Menampilkan suhu dan kelemmbapan ke LCD
+//Menggunakan Sensor DHT, LCD dan LED. Jika suhu diatas 25 derajat Maka LED akan berkedip
+
 #include <LiquidCrystal_I2C.h>
 #include <DHT.h>
 
